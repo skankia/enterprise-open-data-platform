@@ -6,5 +6,8 @@
 
 # Python cache
 __pycache__/
-*.py[cod].env
+*.py[cod]
 .venv/__pycache__/
+
+#Big files location
+data/format_comparison/
